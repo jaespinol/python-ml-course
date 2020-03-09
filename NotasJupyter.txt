@@ -1,0 +1,6 @@
+
+Autocompleta Jupyter
+Escribir como primera línea del notebook la instrucción:
+%config IPCompleter.greedy=True
+Para habilitar el Autocompleta Jupyter
+
